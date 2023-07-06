@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\bin\Debug\net5.0\FoodCompanyProject.exe
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\bin\Debug\net5.0\FoodCompanyProject.deps.json
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\bin\Debug\net5.0\FoodCompanyProject.runtimeconfig.json
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\bin\Debug\net5.0\FoodCompanyProject.runtimeconfig.dev.json
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\bin\Debug\net5.0\FoodCompanyProject.dll
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\bin\Debug\net5.0\ref\FoodCompanyProject.dll
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\bin\Debug\net5.0\FoodCompanyProject.pdb
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.AssemblyInfo.cs
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.dll
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\ref\FoodCompanyProject.dll
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.pdb
+C:\Users\dell\source\repos\FoodCompanyProject\FoodCompanyProject\obj\Debug\net5.0\FoodCompanyProject.genruntimeconfig.cache
